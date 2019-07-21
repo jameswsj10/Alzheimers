@@ -1,0 +1,20 @@
+In this project, I will try to create an app for patients who suffer from neurodegenerative diseases such as Parkinson's or Dementia and their families. This app will have three main functionalities as follows:
+
+- Tracks location of patient and any member of the family or designated caregiver can access the location. 
+- Alerts family/caregivers when patient leaves a certain zone. This zone is designated by the patient and his/her family/caregivers and can be modified. 
+- sends a push / notification / calls the caregiver in cases where patient is lost or does not remember anything - basically any time of emergency.
+
+
+Some things I will have to consider:
+- how to access maps? 
+- UI? Should be as simple as possible for the patient 
+
+
+Flowchart:
+- have a complete design of how the app will work (its functionalities), possible challenges, and then graphic design (make it simple, we are targeting an audience who may not be familiar with technology that much. 
+
+- start setting deadlines and goals
+
+- start!
+
+- ideally want to finish by beginning of August. So approximately 2 weeks. 
