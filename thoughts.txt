@@ -21,4 +21,13 @@ Flowchart:
 
 
 ----------------------------------------------------------------------------------
+
+Location GPS idea for Dementia patient families
+- Tracks location
+- Alerts family members if patient leaves a certain circle
+- Sos button / help me button
+- Real-time updates to nearby accidents, and timely warning advices to all members
+- Registers family / guardian phone numbers and have call button
+- SIMPLE UI is critical and essential since we are dealing with patients with dementia, most likely those with age who are not adept at technology. 
+
  
