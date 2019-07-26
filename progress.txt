@@ -1,0 +1,3 @@
+Must create basic app using React Native
+
+Learn database services such as Firebase, Postgresql, and mysql
