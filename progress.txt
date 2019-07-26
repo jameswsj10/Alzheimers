@@ -1,3 +1,4 @@
 Must create basic app using React Native
+- Need to learn JavaScript to create basic app (edit App.js)
 
 Learn database services such as Firebase, Postgresql, and mysql
