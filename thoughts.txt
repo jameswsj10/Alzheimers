@@ -25,9 +25,26 @@ Flowchart:
 Location GPS idea for Dementia patient families
 - Tracks location
 - Alerts family members if patient leaves a certain circle
-- Sos button / help me button
-- Real-time updates to nearby accidents, and timely warning advices to all members
+- Sos button / help me button --> try to incorporate in notification bar 
 - Registers family / guardian phone numbers and have call button
-- SIMPLE UI is critical and essential since we are dealing with patients with dementia, most likely those with age who are not adept at technology. 
+- SIMPLE UI is critical and essential since we are dealing with patients with dementia,
+most likely those with age who are not adept at technology. 
 
- 
+
+---------
+
+Updates : July 27
+
+Have basic app layout set. 
+
+5 Screens:
+- Open screen
+- Home screen (login)
+- Main screen (will have note to self and Help button. Includes setting)
+- Map screen (map with big icons for homes and special locations. Includes 
+		text boxes of locations user knows (gives direction to them) and 
+		protective zone outlined on map)
+- Memories screen (family pics to help user not forget who they want to remember. Maybe
+		include food and location pics, etc. Will decide later)
+
+Starting react-native...
