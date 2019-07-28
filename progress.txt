@@ -2,3 +2,9 @@ Must create basic app using React Native
 - learning basics of React-native...
 
 Learn database services such as Firebase, Postgresql, and mysql
+
+
+
+July 29th
+- tried to get the navigation bar to work... some issues
+https://reactnavigation.org/docs/en/hello-react-navigation.html 
